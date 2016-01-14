@@ -3,4 +3,34 @@
 .img-circle{
 	border-style: solid 2px #DDD;width:100px;
 	display: inline;
+	height: 300px;
+	width: 300px;
+}
+
+h2{
+	font-size: 50px;
+}
+
+h4{
+	font-family: arial;
+	background-color: yellow;
+	text-decoration: underline;
+}
+
+p{
+	color: #4B4E50;
+}
+
+.media-left, .media-body{
+	display: inline-block;
+	padding: 50px;
+}
+
+
+
+.media-body{
+	background-color: #E6F1F5;
+	width: 600px;
+	border: 1px;
+	border-radius: 15px;
 }
