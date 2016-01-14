@@ -36,13 +36,13 @@
 }
 
 	div:hover{
-	background-color: rgba(87,210,255,255);
+	background-color: rgba(87,210,255,.75);
 }
 
 	ul{
-	font-color:transparent;
-	}
+	font-color:rgba(0,0,0,0)
+}
 
 	ul:hover{
-	font-color:rgba(139,30,255,200);
-	}
+	font-color:rgba(139,30,255,.75);
+}
