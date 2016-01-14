@@ -1,13 +1,16 @@
 .tnail{
 	width: 100px;
-	border: 4px;
-	border-color: rgba(87,210,255,125);
 }
 
 .pphoto{
 	width: 300px;
-	border: 6px;
-	border-color: rgba(87,210,255,125);
+	border-width: 8px;
+}
+
+	img{
+    border-radius: 50%;
+    border-color:rgba(87,210,255,125); 
+    text-align: center;
 }
 
 	h1{
@@ -21,11 +24,11 @@
 	font-family: sans-serif;
 	font-size: 20px;
 	letter-spacing: 1.25;
-	display: inline;
+	text-align: center;
 }
 
 	div{
 	border: solid;
 	padding: 10px;
 	border-radius: 15px;
-	}
+}
