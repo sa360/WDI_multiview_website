@@ -31,4 +31,9 @@
 	border: solid;
 	padding: 10px;
 	border-radius: 15px;
+	border-color: rgba(0,0,0,0);
+}
+
+	div:hover{
+	border-color: rgba(87,210,255,255);
 }
