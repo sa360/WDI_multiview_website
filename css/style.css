@@ -17,6 +17,7 @@
 	font-family: impact;
 	letter-spacing: 2px;
 	font-size: 32px;
+	font-color: transparent;
 	margin: 0px;
 }
 
@@ -35,5 +36,13 @@
 }
 
 	div:hover{
-	border-color: rgba(87,210,255,255);
+	background-color: rgba(87,210,255,255);
 }
+
+	ul{
+	font-color:transparent;
+	}
+
+	ul:hover{
+	font-color:rgba(139,30,255,200);
+	}
