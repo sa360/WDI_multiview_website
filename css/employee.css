@@ -10,24 +10,18 @@
 h2{
 	font-size: 50px;
 }
-
 h4{
 	font-family: arial;
 	background-color: yellow;
 	text-decoration: underline;
 }
-
 p{
 	color: #4B4E50;
 }
-
 .media-left, .media-body{
 	display: inline-block;
 	padding: 50px;
 }
-
-
-
 .media-body{
 	background-color: #E6F1F5;
 	width: 600px;
